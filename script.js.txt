@@ -4,7 +4,7 @@ function init () {
     const paragraph = document.getElementById("statusReport");
 
     // Put your code for the exercises here.
-    
+    button.addEventListener("click",function(event))
 }
 
 window.addEventListener("load", init);
